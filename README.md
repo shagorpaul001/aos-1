@@ -2,4 +2,4 @@
 html plugin aos-1
 
 live preview
-https://github.com/shagorpaul001/aos-1/pages
+https://shagorpaul001.github.io/aos-1/
